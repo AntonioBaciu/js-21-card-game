@@ -1,6 +1,6 @@
 # Title: BlackJack 21
 Website [LINK](https://antoniobaciu.github.io/js-21-card-game/)
-![](js-21-card-game/resources/game-preview.png)
+![](resources/game-preview.png)
 
 Short introduction:
 [BlackJack 21] is an simplified version of the original BlackJack game since it's single player,
@@ -9,7 +9,7 @@ In other words, the winner is decided only by it's score and there is no reward 
 bersides the "You won !!!" message.
 
 __The Game Rules:__
-![](js-21-card-game/resources/rules-preview.png)
+![](resources/rules-preview.png)
 
 __Features:__
 
