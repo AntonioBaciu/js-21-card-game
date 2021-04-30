@@ -1,5 +1,5 @@
 # Title: BlackJack 21
-Website [LINK](https://antoniobaciu.github.io/js-21-card-game/)
+# Website [LINK](https://antoniobaciu.github.io/js-21-card-game/)
 ![](resources/game-preview.png)
 
 Short introduction:
@@ -8,7 +8,7 @@ and doesn't have a betting system.
 In other words, the winner is decided only by it's score and there is no reward for winning
 bersides the "You won !!!" message.
 
-__The Game Rules:__
+# The Game Rules:
 ![](resources/rules-preview.png)
 
 __Features:__
